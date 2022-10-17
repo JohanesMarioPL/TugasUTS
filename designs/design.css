@@ -1,0 +1,41 @@
+/* Font : sans-serif */
+header { 
+    position: fixed; 
+    display: block; 
+    height: 80px; 
+    background-color:#beb298; 
+    padding: 3px; 
+    left:0; right:0; top:0; 
+    z-index:5;
+    border-bottom: 5px solid #222222;
+    line-height: 66px;
+}
+
+.logo {
+    display:inline-block; 
+    width:80px;
+    margin-top: 1px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-bottom: 0px; padding-bottom: 0px;
+}
+
+.welcome {
+    padding-left: 500px ;
+    font-size: xx-large;
+    font-family: sans-serif;
+    color: #222222;
+}
+
+body {
+    background-color: #eae6de ;
+}
+
+.hr {
+    width: 90%; 
+    height: 5px;
+}
