@@ -22,13 +22,14 @@ header {
     justify-content: left;
     align-items: center;
     margin-bottom: 0px; padding-bottom: 0px;
+    text-align: justify;
 }
 
 .welcome {
-    padding-left: 500px ;
     font-size: xx-large;
     font-family: sans-serif;
     color: #222222;
+    text-align: center;
 }
 
 body {
@@ -38,4 +39,42 @@ body {
 .hr {
     width: 90%; 
     height: 5px;
+}
+
+.intro{
+    padding-top: 115px;
+    text-align: center;
+    justify-content: center;
+    font-size: larger;
+    font-family: sans-serif;
+}
+
+.htmldasar{
+    background: rgb(255, 255, 255);
+    padding: 30px;
+    border: 10px solid #beb298;
+    text-align: center;
+    width: 230px;
+    font-family: sans-serif;
+}
+
+.materi1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly
+}
+
+.materi2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.textdasar{
+    text-align: center;
+    justify-content: center;
+}
+
+.atas{
+    justify-content: space-evenly;
 }
