@@ -2,19 +2,29 @@
 header { 
     position: fixed; 
     display: block; 
-    height: 80px; 
+    height: 65px; 
     background-color:#beb298; 
     padding: 3px; 
     left:0; right:0; top:0; 
     z-index:5;
     border-bottom: 5px solid #222222;
     line-height: 66px;
+    justify-content: center;
+    align-items: center;
 }
 
 .logo {
-    display:inline-block; 
-    width:80px;
+    display:flex; 
+    width:65px;
+    float: left;
+
+}
+
+.threebars {
+    display: flex; 
+    width:65px;
     margin-top: 1px;
+    float: right;
 }
 
 .navbar {
@@ -29,7 +39,7 @@ header {
     font-size: xx-large;
     font-family: sans-serif;
     color: #222222;
-    text-align: center;
+
 }
 
 body {
@@ -68,6 +78,15 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    padding-bottom: 150px;
+}
+
+.hr{
+    padding-top: 1px;
+    background-color: #222222;
+    width: 98%;
+    border-radius: 10px;
+
 }
 
 .textdasar{
@@ -77,4 +96,13 @@ body {
 
 .atas{
     justify-content: space-evenly;
+}
+/* Hover */
+.a :hover{
+    transition: ease-in-out;
+    opacity: 80%;
+}
+.a{
+    color: #222222;
+    text-decoration: none;
 }
