@@ -1,0 +1,235 @@
+/* Font : sans-serif */
+/* Navbar */
+*, html{
+    padding: 0%;
+    margin: 0%;
+}
+header { 
+    position: fixed; 
+    display: block; 
+    height: 65px; 
+    background-color:#beb298; 
+    padding: 3px; 
+    left:0; right:0; top:0; 
+    z-index:5;
+    border-bottom: 5px solid #222222;
+    line-height: 66px;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    display:flex; 
+    width:65px;
+    float: left;
+
+}
+
+.home {
+    display: flex; 
+    width:30px;
+    margin-top: 15px;
+    margin-right: 15px;
+    float: right;
+}
+
+.tittle {
+    font-size: xx-large;
+    font-family: sans-serif;
+    color: #222222;
+
+}
+
+body {
+    background-color: #eae6de ;
+}
+/* Navbar End */
+
+
+
+.intro{
+    padding-top: 150px;
+    text-align: center;
+    justify-content: center;
+    font-size: larger;
+    font-family: sans-serif;
+}
+.content{
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly
+}
+
+
+.htmldasar{
+    background: rgb(255, 255, 255);
+    padding: 50px;
+    border: 6px solid #beb298;
+    text-align: center;
+    width: 230px;
+    font-family: sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.materi1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly
+}
+
+.materi2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-bottom: 170px;
+}
+.a :hover{
+    transition: ease-in-out;
+    opacity: 90%;
+    transform: scale(110%);
+    transition-delay: .2s;
+}
+.a{
+    color: #222222;
+    text-decoration: none;
+}
+.textdasar{
+    text-align: center;
+    justify-content: center;
+}
+
+.atas{
+    justify-content: space-evenly;
+}
+
+.hr{margin: auto;
+    background-color: #222222;
+    width: 98%;
+    border-radius: 10px;
+    height: 5px;
+}
+.aboutus{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: sans-serif;
+    padding-bottom: 80px;
+
+}
+.foto{
+    width: 30%;
+    border-radius: 20px;    
+}
+.foto2{
+    text-align: center;
+   
+}
+.foto1{
+    margin: auto;
+    width: 37%;
+}
+.judul{
+    padding-top: 70px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 45px;
+}
+/* footer */
+.footer{
+    height: 70px; 
+    background-color:#beb298; 
+    border-top: 5px solid #222222;
+}
+.footerteks{
+    font-family: sans-serif;
+    font-size: large;
+    padding: 25px;
+    float: right;
+}
+.youtube{
+    width:50%;    
+}
+.logoinstagram{
+
+    text-align: center;
+    margin-top: 14px;
+    width: 7%;
+}
+.logoemail{
+
+    text-align: center;
+    margin-top: 14px;
+    width: 7%;
+}
+.logoyoutube{
+
+    text-align: center;
+    margin-top: 14px;
+    margin-left: 10px;
+    width: 7%;
+}
+.logofooter{
+    display: flex;
+    flex-direction: row;
+}
+/* footer end */
+
+
+/* html dasar */
+
+
+
+
+
+/* html dasar end */
+
+/* html lanjutan */
+
+
+
+
+
+
+/* html lanjutan end */
+
+/* ifram */
+
+
+
+
+
+
+/* iframe end */
+
+/* list dan table */
+
+
+
+
+
+
+
+/* list dan table end */
+
+/* php */
+
+
+
+
+
+
+
+/* php end */
+
+/* css */
+
+
+
+
+
+
+
+/* css end */
