@@ -42,6 +42,7 @@ header {
 
 body {
     background-color: #eae6de ;
+    font-family: sans-serif;
 }
 /* Navbar End */
 
@@ -121,7 +122,7 @@ body {
 }
 .foto{
     width: 30%;
-    border-radius: 20px;    
+    border-radius: 15px;    
 }
 .foto2{
     text-align: center;
@@ -138,7 +139,7 @@ body {
     font-size: 45px;
 }
 /* footer */
-.footer{
+footer{
     height: 70px; 
     background-color:#beb298; 
     border-top: 5px solid #222222;
@@ -179,10 +180,167 @@ body {
 
 
 /* html dasar */
+.bodymateri1{
+    font-size: 28px;
+    margin-left: 33px;
+    width: 97%;
+}
 
+.judulmateri1{
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 100px;
+    text-align: center;
+}
+.judulapaituhtml{
+   font-size: 30px;
+   font-weight: bold;
+}
+/* apa itu html */
 
+.isiapaituhtml{
+    padding-top: 10px;
+    font-size: 28px;
+}
 
+.judulmulaibelajarhtml{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15px;
+}
+.mulaibelajarhtmlke1{
+    padding-top: 10px;
+    font-size: 29px;
+}
+.isimulaibelajarhtmlke1{
+    font-size: 28px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: 33px;
+    width: 90%;
+}
+.code1mulaibelajarhtml{
+    background-color: lightgray;
+    width: 7%;
 
+}
+.code1-2mulaibelajarhtml{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.mulaibelajarhtmlke2{
+    padding-top: 10px;
+    font-size: 29px;
+}
+.isimulaibelajarhtmlke2{
+    font-size: 27px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: 33px;
+    width: 90%;
+}
+.codemulaibelajarhtml{
+    background-color: lightgray;
+    width: 12.5%;
+}
+.code2mulaibelajarhtml{
+    display: flex;
+    flex-direction: row;
+}
+.gambar1htmldasar{
+    width: 23%;
+}
+/* langkah belajar html */
+
+.judullangkahdalambelajarhtml{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+.judulke1langkahdalambelajarhtml{
+    font-size: 29px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+.gambarlangkahdalambelajarhtml{
+    text-align: center;
+    margin-top: 40px;
+}
+.listlangkahdalambelajarhtml{
+    font-size: 27px;
+    padding-top: 15px;
+}
+.tambahanlistlangkahdalambelajarhtml{
+    list-style: none;
+    padding-left: 40px;
+}
+.judulke2langkahdalambelajarhtml{
+    padding-top: 50px;
+    font-weight: bold;
+}
+.judulke3angkahdalambelajarhtml{
+    text-align: center;
+    padding-top: 100px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.codeke3langkahbelajarhtml{
+    padding-top: 35px;
+    text-align: center;
+    font-size: 29px;
+    padding-bottom: 25px;
+}
+/* materi ke 3 html dasar */
+.materike3htmldasar{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.judulmaterike3htmldasar{
+    font-size: 29px;
+    padding-top: 30px;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.listmaterike3htmldasar{
+    font-size: 27px;
+    padding-top: 10px;
+}
+.tambahanlistmaterike3htmldasar{
+    list-style: none;
+    padding-left: 36px;
+}
+.gambarmaterike3htmldasar{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.ollistmaterike3htmldasar{
+    font-size: 27px;
+    padding-top: 5px;
+    padding-left: 14px;
+}
+.oltambahanlistmaterike3htmldasar{
+    list-style: none;
+    padding-left: 14px;
+}
+.codematerike3htmldasar{
+    margin: auto;
+    width: 90vw;
+    padding-bottom: 200px;
+}
+.nextmateri{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    font-size: 25px;
+    text-decoration: none;
+    color: #222222;
+}
 
 /* html dasar end */
 
@@ -224,7 +382,7 @@ body {
 
 /* php end */
 
-/* css */
+/* materi 4 */
 
 
 
@@ -232,4 +390,4 @@ body {
 
 
 
-/* css end */
+/* materi 4*/
