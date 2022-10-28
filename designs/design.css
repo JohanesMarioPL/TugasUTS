@@ -72,6 +72,7 @@ body {
     font-family: sans-serif;
     font-size: x-large;
     font-weight: bold;
+    border-radius: 10px;
 }
 
 .materi1{
@@ -180,6 +181,8 @@ footer{
 
 
 /* html dasar */
+
+
 .bodymateri1{
     font-size: 28px;
     margin-left: 33px;
@@ -340,13 +343,132 @@ footer{
     font-size: 25px;
     text-decoration: none;
     color: #222222;
+    padding-right: 50px;
+    padding-bottom: 25px;
+}
+.tablecodingan{
+    margin: auto;
+    text-align: justify;
+    border: 1px solid black;
+    background-color: aliceblue;
+    height: 50px;
+    width: 800px;
+    padding: 10px;
 }
 
+.tablecodingan1{
+    margin: auto;
+    text-align: justify;
+    border: 1px solid black;
+    background-color: aliceblue;
+    height: 50px;
+    width: 400px;
+    padding: 10px;
+}
+.tablecodingan2{
+    margin: auto;
+    text-align: justify;
+    border: 1px solid black;
+    background-color: aliceblue;
+    height: 50px;
+    width: 1000px;
+    font-size: 20px;
+    text-align: justify;
+    padding: 10px;
+}
+.tablecodingan3{
+    margin: auto;
+    text-align: justify;
+    border: 1px solid black;
+    background-color: aliceblue;
+    height: 50px;
+    width: 100px;
+    padding: 10px;
+}
+.tablecodingan4{
+    margin: auto;
+    text-align: justify;
+    border: 1px solid black;
+    background-color: aliceblue;
+    width :70%;
+}
 /* html dasar end */
 
 /* html lanjutan */
+.judullanjutan{
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 100px;
+    text-align: center;
+}
+.listlanjutan{
+    font-size: 25px;
+    padding-top: 2px;
+    list-style: none;
+    padding-left: 30px;
+}
+.tambahanlistlanjutan{
+    list-style: none;
+    padding-left: 30px;
+    font-size: 25px;
+    padding-bottom: 25px;
+}
+.tambahanlistlanjutan1{
+    list-style: none;
+    padding-left: 30px;
+    font-size: 25px;
+    padding-top: 25px;
+}
+.tambahanlistlanjutan2{
+    list-style: none;
+    padding-left: 30px;
+    font-size: 25px;
+    padding-bottom: 25px;
+}
+.judulmateri2{
+    padding-left: 30px;
+    font-size: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
 
-
+}
+.codingan{
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+    font-size: 20px;
+    background-color: aliceblue;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+.gambarlanjutan{
+    width:100%;
+}
+.codingan1{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.nextmateri2{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    font-size: 25px;
+    text-decoration: none;
+    color: #222222;
+}
+.tombolnext{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+}
 
 
 
@@ -383,11 +505,38 @@ footer{
 /* php end */
 
 /* materi 4 */
-
-
-
-
-
+.judulcss{
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 100px;
+    text-align: center;
+}
+.listcss{
+    font-size: 25px;
+    padding-top: 2px;
+    list-style: none;
+    padding-left: 67px;
+}
+.listcss1{
+    font-size: 25px;
+    padding-top: 25px;
+    list-style: none;
+    padding-left: 67px;
+}
+.listcss2{
+    font-size: 25px;
+    padding-top: 2px;
+    list-style: none;
+    padding-left: 67px;
+    padding-bottom: 25px;
+}
+.gambarcss{
+    text-align: center;
+}
+.gambarcss1{
+    width: 90%;
+}
 
 
 /* materi 4*/
+/* FORM PHP AWAL */
