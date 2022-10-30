@@ -475,27 +475,388 @@ footer{
 
 /* html lanjutan end */
 
-/* ifram */
+/* iframe */
+.iframe{
+   display: block;
+   width:100%;
+   height:350px;
+   overflow:hidden;
+   text-align: center;
+   margin-bottom: 10px;
+}
+.iframe1{
+    margin-top: 10px;
+    width: 1000px;
+    height: 100%;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
 
+.listtagif{
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
 
+.codingan{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    font-size: 20px;
+    background-color: aliceblue;
+    border: 3px solid black;
+    border-radius: 10px;
+}
 
+.listiframe2{
+    font-size: 25px;
+    padding-top: 10px;
+    list-style: none;
+    padding-left: 30px;
+    padding-bottom: 15px;
+}
 
+.listiframe3{
+    font-size: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    list-style: none;
+    padding-left: 30px;
+}
 
+.listiframe4{
+    font-size: 25px;
+    padding-top: 10px;
+    list-style: none;
+    padding-left: 30px;
+    padding-top: 15px;
+}
 
+.listiframe5{
+    font-size: 25px;
+    padding-top: 10px;
+    list-style: none;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
+.gambarframe{
+    width:60%;
+    text-align: center;
+}
+
+.gambart{
+    text-align: center;
+}
+
+.listiframe{
+    font-size: 25px;
+    padding-top: 2px;
+    list-style: none;
+    padding-left: 30px;
+}
 /* iframe end */
 
 /* list dan table */
+.codingan{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    font-size: 20px;
+    background-color: aliceblue;
+    border: 3px solid black;
+    border-radius: 10px;
+}
 
+.codingan{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    font-size: 20px;
+    background-color: aliceblue;
+    border: 3px solid black;
+    border-radius: 10px;
+}
 
+.listcd{
+    font-size: 20px;
+    padding-top: 2px;
+    list-style: none;
+    padding-left: 30px;
+}
 
+.coding2 {
+    font-size: 20px;
+    margin-left: 20px;
+}
 
+.coding3 {
+    font-size: 20px;
+    margin-left: 40px;
+}
 
+.coding4 {
+    font-size: 20px;
+    margin-left: 60px;
+}
 
+.coding5 {
+    font-size: 20px;
+    margin-left: 80px;
+}
 
+.listtable2{
+    font-size: 25px;
+    padding-top: 10px;
+    list-style: none;
+    padding-left: 30px;
+}
+
+.listtable3{
+    font-size: 25px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    list-style: none;
+    padding-left: 30px;
+}
+
+.listtaglt{
+    font-size: 25px;
+    padding-left: 30px;
+}
+
+.listtb3{
+    font-size: 25px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    list-style: none;
+    padding-left: 30px;
+}
+
+.listtb4{
+    font-size: 25px;
+    padding-top: 30px;
+    list-style: none;
+    padding-left: 30px;
+}
+
+.listtb5{
+    font-size: 25px;
+    padding-bottom: 15px;
+    list-style: none;
+    padding-left: 30px;
+}
+
+.listur{
+    font-size: 25px;
+    padding-top: 2px;
+    list-style: decimal;
+    padding-left: 60px;
+    padding-bottom: 15px;
+}
+
+.judulmateri2{
+    padding-left: 30px;
+    font-size: 20px;
+    padding-top: 30px;
+    font-weight: bold;
+}
+
+.listtagtb{
+    font-size: 25px;
+    padding-left: 30px;
+}
+
+.listtb{
+    font-size: 25px;
+    padding-top: 2px;
+    list-style: none;
+    padding-left: 30px;
+}
 /* list dan table end */
 
 /* php */
-
+.judulphp{
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 100px;
+    text-align: center;
+}
+.listphp1{
+    font-size: 25px;
+    padding-top: 25px;
+    list-style: none;
+    padding-left: 67px;
+}
+.listphp{
+    font-size: 25px;
+    padding-top: 2px;
+    list-style: none;
+    padding-left: 67px;
+}
+.listphp2{
+    font-size: 25px;
+    padding-top: 2px;
+    list-style: none;
+    padding-left: 67px;
+    padding-bottom: 25px;
+}
+.listphp3{
+    font-size: 25px;
+    padding-top: 2px;
+    list-style: none;
+    padding-left: 67px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+.gambarphp{
+    text-align: center;
+}
+.gambarphp1{
+    width: 90%;
+}
+.gambarphp2{
+    width: 75%;
+}
+.judulmateriphp{
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 67px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.listdalamlistphp{
+    font-size: 25px;
+    padding-top: 2px;
+    padding-left: 67px;
+}
+.listdalamlistphp1{
+    font-size: 25px;
+    padding-top: 2px;
+    padding-left: 105px;
+    list-style: none;
+}
+.codinganphp{
+    background-color: aliceblue;
+    width: 90%;
+    margin: auto;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 150px;
+}
+.codinganphp1{
+    padding-top: 35px;
+    padding-left: 35px;
+}
+.codinganphp2{
+    padding-left: 35px;
+}
+.codinganphp01{
+    background-color: aliceblue;
+    width: 90%;
+    margin: auto;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 618px;
+}
+.codinganphp002{
+    background-color: aliceblue;
+    width: 90%;
+    margin: auto;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 350px;
+}
+.codinganphp003{
+    background-color: aliceblue;
+    width: 90%;
+    margin: auto;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 240px;
+}
+.codinganphp004{
+    background-color: aliceblue;
+    width: 90%;
+    margin: auto;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 120px;
+}
+.codinganphp005{
+    background-color: aliceblue;
+    width: 90%;
+    margin: auto;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 180 px;
+}
+.codinganphp006{
+    background-color: aliceblue;
+    width: 90%;
+    margin: auto;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 180 px;
+}
+.codinganphp5{
+    margin: auto;
+    width: 80%;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 120px;
+}
+.codinganphp001{
+    padding-left: 25px;
+}
+.codinganphp02{
+    padding-left: 50px;
+}
+.codinganphp3{
+    padding-left: 75px;
+}
+.codinganphp4{
+    padding-left: 100px;
+}
+.subjudulphp{
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 67px;
+}
+.codinganphp007{
+    margin: auto;
+    width: 90%;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 150px;
+    background-color: aliceblue;
+}
+.iframephp{
+    margin: auto;
+    
+}
+.iframephp1{
+    padding-top: 20px;
+    margin: auto;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.iframephp2{
+    text-decoration: none;
+    color: #222222;
+}
 
 
 
